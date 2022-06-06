@@ -1,0 +1,24 @@
+
+  #banner
+  { background-image: url("/assets/images/pic.jpg");
+    background-color: #cccccc; 
+    height: 800px; 
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover; 
+  }
+
+  a
+  {
+      text-Decoration:none;
+  }
+
+  #image2{
+    background-image: url("/assets/images/pic2.jpg");
+    height: 800px; 
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover; 
+  }
+
+  

@@ -1,0 +1,15 @@
+
+  #banner
+  { background-image: url("/assets/images/pic.jpg");
+    background-color: #cccccc; 
+    height: 800px; 
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover; 
+  }
+
+  a
+  {
+      color: #1e1c1c;
+  }
+  

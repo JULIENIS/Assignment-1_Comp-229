@@ -1,0 +1,15 @@
+
+  #banner
+  { background-image: url("/assets/images/pic.jpg");
+    background-color: #cccccc; 
+    width: 100%;
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover; 
+  }
+
+  a
+  {
+      text-Decoration:none;
+  }
+  

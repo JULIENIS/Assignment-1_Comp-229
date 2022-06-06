@@ -1,0 +1,9 @@
+body {
+    background-image: url("./assets/images/pic.jpg");
+    background-color: #cc3b2178; 
+    height: 500px; 
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover; 
+  }
+  
