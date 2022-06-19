@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 
-import app from './server/config/app';
+import app from './Server/Config/app';
 import debug from 'debug';
 debug('lesson3:server');
 import http from 'http';

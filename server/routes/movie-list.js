@@ -5,8 +5,8 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 Object.defineProperty(exports, "__esModule", { value: true });
 const express_1 = __importDefault(require("express"));
 const router = express_1.default.Router();
-const movie_list_1 = require("../Controllers/movie-list");
-const index_1 = require("../Util/index");
+const movie_list_1 = require("../controllers/movie-list");
+const index_1 = require("../util/index");
 router.get('/movie-list', index_1.AuthGuard, movie_list_1.DisplayMovieListPage);
 router.get('/add', index_1.AuthGuard, movie_list_1.DisplayAddPage);
 router.get('/edit/:id', index_1.AuthGuard, movie_list_1.DisplayEditPage);
