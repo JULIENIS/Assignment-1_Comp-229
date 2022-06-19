@@ -1,0 +1,20 @@
+{
+    "clients":
+    [
+        {
+            "Contact Name": "Fernando Orozco",
+            "Contact Number": "6475646803",
+            "Email Address": "gfox1992@gmail.com"
+        },
+        {
+            "Name": "Andres Torrealba",
+            "Contact Number": "6476754567",
+            "Email Address": "andres1100@gmail.com"
+        },
+        {
+            "Name": "Karla Morales",
+            "Contact Number": "64784523467",
+            "Email Address": "designstudiokk@gmail.com"
+        }
+    ]
+}  
