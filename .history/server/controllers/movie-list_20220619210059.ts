@@ -19,7 +19,7 @@ export function DisplayMovieListPage(req: express.Request, res: express.Response
         console.error(err.message);
         res.end(err);
       }
-      res.render('index', { title: 'Client List', page: 'movie-list', movies: moviesCollection, displayName:  UserDisplayName(req)  });
+      res.render('index', { title: 'Movie List', page: 'movie-list', movies: moviesCollection, displayName:  UserDisplayName(req)  });
     });
 }
 
